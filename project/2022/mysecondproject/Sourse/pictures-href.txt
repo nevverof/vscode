@@ -1,0 +1,13 @@
+ 			   <div class="href__facebook">
+                                <a href="https://ru-ru.facebook.com/"><img
+                                        src="img/logo/free-icon-facebook-logo-49052.png" alt="facebook"></a>
+                            </div>
+                            <div class="href__twitter">
+                                <a href="https://twitter.com/?lang=ru"><img
+                                        src="img/logo/free-icon-twitter-logo-48992.png" alt="twitter"></a>
+                            </div>
+                            <div class="href__instagram">
+                                <a href="https://www.instagram.com/"><img
+                                        src="img/logo/free-icon-instagram-social-network-logo-of-photo-camera-48898.png"
+                                        alt=""></a>
+                            </div>

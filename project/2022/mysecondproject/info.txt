@@ -1,0 +1,21 @@
+.form__button {
+	background-color: #ff9b51;
+	display: flex;
+	flex: 1 1 auto;
+	border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+.form__button:hover {
+	background-color: rgb(59, 26, 138);
+}
+.form__button a {
+	margin: auto;
+	font-family: 'Open Sans';
+	font-size: 15px;
+	line-height: 1.2;
+	font-weight: 600;
+	color: #ffffff;
+}
+.form__button a:hover {
+	color: #000;
+}
